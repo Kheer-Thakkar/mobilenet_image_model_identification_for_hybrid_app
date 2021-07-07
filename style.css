@@ -1,0 +1,49 @@
+body{
+    background-color: deeppink;
+}
+
+@import 
+url("https://fonts.googleapis.com/css?family=Kavoon");
+.header{
+color: #5900ff;
+font-family: 'Kavoon', "https://fonts.googleapis.com/css?family=Kavoon";
+font-size: 68px;
+line-height: 1.1;
+padding: 10px 0;
+text-align: center;
+text-shadow: 0px 0px 0 rgb(235,235,235),1px 1px 0 rgb(228,228,228),1px 2px 0 rgb(222,222,222),3px 3px 0 rgb(215,215,215),4px 4px 0 rgb(209,209,209), 5px 5px 0 rgb(203,203,203),10px 6px 5px rgba(0,0,0,0.25),10px 10px 5px rgba(0,0,0,0.5);
+width: 580px;
+}
+#start-btn
+{
+    width: 40%;
+} 
+#camera,#result
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+#cad , #fire{
+    width: 60px;
+    height: 50px;
+}
+.footer_div{
+ margin-bottom: 50px;
+ 
+}
+.footer_div h4{
+    background: floralwhite;
+    border-radius:10px;
+    box-shadow: 5px 5px 18px white;
+    padding: 5px;
+}
