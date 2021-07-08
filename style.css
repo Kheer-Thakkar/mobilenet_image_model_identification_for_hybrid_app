@@ -22,7 +22,7 @@ width: 580px;
 {
     width:360px;
     height: 250px;
-    border:1px solid grey;
+    border:2px solid grey;
 }
 #logo_img
 {
@@ -34,8 +34,8 @@ width: 580px;
     width: 300px;
 }
 #cad , #fire{
-    width: 60px;
-    height: 50px;
+    width: 100px;
+    height: 100px;
 }
 .footer_div{
  margin-bottom: 50px;
@@ -46,4 +46,48 @@ width: 580px;
     border-radius:10px;
     box-shadow: 5px 5px 18px white;
     padding: 5px;
+}
+.header_div{
+   background:pink;
+    color:#ce2700;
+}
+
+.header_div img{
+width:100px;
+}
+
+.main_div{
+    background: deeppink;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid whitesmoke;
+}
+
+.main_div label{
+    background: whitesmoke;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow:  5px 5px 18px whitesmoke;
+}
+
+#camera{
+    border: 2px solid whitesmoke;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px whitesmoke;
+}
+
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow:  5px 5px 18px whitesmoke;
+    border: 1px solid;
+}
+
+#result{
+    border: 2px solid whitesmoke;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px whitesmoke;
 }
